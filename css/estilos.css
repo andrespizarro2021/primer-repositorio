@@ -10,10 +10,15 @@
 
 
 .card:hover{
-    box-shadow: 0 0 10px #c09815;
+    box-shadow: 0 0 10px #1b0088;
 }
 
 .bg-secondary{
     background-color:#1b0088 !important ;
 }
 
+.btn-primary{
+    background-color: #1b0088 !important ;
+}
+.btn-secondary{
+    background-color: #1b0088 !important ;

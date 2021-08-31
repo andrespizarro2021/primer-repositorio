@@ -8,11 +8,6 @@
     }
 
 
-
-.card:hover{
-    box-shadow: 0 0 10px #c09815;
-}
-
 .bg-secondary{
     background-color:#1b0088 !important ;
 }
